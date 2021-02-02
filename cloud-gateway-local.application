@@ -1,1 +1,5 @@
 
+ip:
+  limit:
+    timeInMilliseconds: 60000
+    maxRegisterTimes: 2
